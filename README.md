@@ -1,16 +1,22 @@
+# React Calculator
+
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
-	
+Welcome to the Github repository for the React Calculator project! This project is a user-friendly and versatile calculator designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Whether you are a seasoned programmer or just starting out, this project is a great place to learn and improve your skills in programming and software development.
+
+The calculator's interface is user-friendly and straightforward, allowing users to input their desired numbers and carry out their desired mathematical operation with just a few clicks. The display is clear and concise, providing users with real-time feedback on their calculations and ensuring accuracy.
+
+This Github repository includes all the necessary files and code needed to run the calculator, as well as comprehensive documentation to guide users through the installation and setup process. The project is open-source, allowing users to contribute and collaborate with others to improve and expand its functionality.
+
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* React.js
+* JavaScript
+* HTML
+* CSS
 
 # Getting Started with Create React App
 
